@@ -1,4 +1,4 @@
-# Aurora S2x ⭐
+# S2x ⭐
 
 > [!WARNING]
 > S2x is **VERY EARLY** in development and is missing many features. There *will* be bugs and crashes.
@@ -18,6 +18,10 @@ To learn more about S2x itself, [check out S2x here.](https://github.com/Brentde
 - [ ] Unlock all stats ⚠
 
 ⚠ = *Microsoft Store version has the patch done and just needs to support both*
+
+## Credits
+
+Thank you [Brentdevent](https://github.com/Brentdevent) for making the entire POC of the client. [You can check S2x credits here.](https://github.com/Brentdevent/S2x)   
 
 ## Disclaimer
 
