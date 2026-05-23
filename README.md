@@ -9,12 +9,13 @@ To learn more about S2x itself, [check out S2x here.](https://github.com/Brentde
 
 ## Aurora's Roadmap
 
-- [ ] Support Microsoft Store build
-- [ ] Add custom GSC & overriding support
-- [ ] Add custom image loading ⚠
-- [ ] Add `cg_drawFps` ⚠
+- [ ] Support Microsoft Store build alongside Steam
+- [ ] Dedicated servers
+- [ ] Custom GSC & overriding support
+- [ ] Image overriding ⚠
+- [ ] Add `cg_drawFps` dvar ⚠
 - [ ] Add `map` & `devmap` commands ⚠
-- [ ] Add unlock all ⚠
+- [ ] Unlock all stats ⚠
 
 ⚠ = *Microsoft Store version has the patch done and just needs to support both*
 
